@@ -208,7 +208,7 @@ header nav .menu div:last-child a:hover,
 .home {
     position: relative;
     min-height: 100vh;
-    background-image: url("/image/bg-hero.jpg");
+    background-image: url("../image/bg-hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
